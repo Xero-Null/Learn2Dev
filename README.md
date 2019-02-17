@@ -30,3 +30,5 @@ git reset HEAD@{1}
 
 If you have a repository that you need to bring up to the current commit version, type:
 git pull origin master
+
+If you made changes to the files and need to reset, type: git reset --hard HEAD
