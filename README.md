@@ -4,6 +4,7 @@ This repository will used to upload my YouTube channel Learn2Dev's source code. 
 
 
 1) Download and install git from: https://git-scm.com/downloads (I'm currently using version 2.17.1.2)
+2) Download and install Visual Studio from: https://visualstudio.microsoft.com/ (I'm currently using VS2017)
 
 2) Create a new folder on your C:/ drive, name it Learn2Dev
 
