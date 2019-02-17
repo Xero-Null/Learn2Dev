@@ -23,7 +23,7 @@ To go to the beginning of the tutorial series, type:
 1) git reset --hard f6649a14903abe8adfa8328acf1625b60c37dc2d
 2) git clean -f
 
-Note: You can replace f6649a14903abe8adfa8328acf1625b60c37dc2d with another commit, if you reset to a different version.
+Note: You can replace f6649a14903abe8adfa8328acf1625b60c37dc2d with another commit, if you want to reset to a different version.
 
 When at a lower commit version and you want to navigate forward by one commit type:
 git reset HEAD@{1}
