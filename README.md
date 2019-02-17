@@ -21,8 +21,6 @@ Now you have the most up to date version of the Learn2Dev repository.
 
 To go to the beginning of the tutorial series, type:
 1) git reset --hard f6649a14903abe8adfa8328acf1625b60c37dc2d
-
-and then type:
 2) git clean -f
 
 Note: You can replace f6649a14903abe8adfa8328acf1625b60c37dc2d with another commit, if you reset to a different version.
